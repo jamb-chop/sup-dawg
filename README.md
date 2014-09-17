@@ -1,4 +1,6 @@
 sup-dawg
 ========
 
-Hello World
+Hello World,
+First Github Repo.
+I'll be using this to learn AngularJS. 
